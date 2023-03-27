@@ -1,1 +1,1 @@
-# newproject
+This is an introductory file.
